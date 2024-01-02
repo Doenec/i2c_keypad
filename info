@@ -1,0 +1,6 @@
+I want to share this in case be useful for someone. For a hardware developer, a very common problem when designing a new product is usually the case, the point at which the user must interact, what buttons or connectors to use, taking into account the environment where it will be used or whether It must be waterproof.
+
+In this case I want a keyboard for an HMI interface, keyboard+display, it is easy to get 4x4 membrane keyboards on the internet with double-sided adhesive, however it is not very aesthetic and it is not easy to embed in an enclosure to have a good look and feel.
+
+A couple of year ago I replaced one industrial membrane keyboard for plastic injection machines, the customer is happy due to the robustness of the new keyboard so I use the same concept, I am going to share the files of this keyboard + i2c display, you can It may seem like a very silly circuit but it solves a very common problem in a simple way.
+My friend Jose will make the 3D model to print the accessory and turn the keyboard into a waterproof one i will share it later.
